@@ -8,10 +8,8 @@ We combine modern frontend development with AI-driven automation to create digit
 
 ---
 
-### 🌐 About  
-- **Headquarters:** Tunis, [Tunisia](https://tn.moezh.com/en) 🇹🇳  
-- **Operating Regions:** [UK](https://uk.moezh.com/en) 🇬🇧 · [France](https://fr.moezh.com/en) 🇫🇷 · [Canada](https://ca.moezh.com/en) 🇨🇦 · [USA](https://us.moezh.com/en) 🇺🇸 · [Global](https://moezh.com/en) 🌍  
-- **Website:** [moezh.com](https://moezh.com/en)
+### 🌐 Operating Regions: 
+[USA](https://us.moezh.com/en) 🇺🇸 · [Canada](https://ca.moezh.com/en) 🇨🇦 · [UK](https://uk.moezh.com/en) 🇬🇧 · [France](https://fr.moezh.com/en) 🇫🇷 · [Tunisia](https://tn.moezh.com/en) 🇹🇳  · [Global](https://moezh.com/en) 🌍
 
 ---
 
@@ -35,9 +33,8 @@ Empowering companies to launch intelligent, high-performance digital experiences
 **Conçoit et développe des applications web intelligentes et évolutives**, basées sur **Next.js**, **React**, **TypeScript** et **IA agentique**.  
 Nous accompagnons les **startups et entreprises internationales** dans la création de solutions digitales performantes et prêtes pour l’avenir.
 
-- Siège : Tunis, [Tunisie](https://tn.moezh.com/fr) 🇹🇳  
-- Opérationnel : [Royaume-Uni](https://uk.moezh.com/fr) 🇬🇧 · [France](https://fr.moezh.com/fr) 🇫🇷 · [Canada](https://ca.moezh.com/fr) 🇨🇦 · [États-Unis](https://us.moezh.com/fr) 🇺🇸  
-- Site : [moezh.com](https://moezh.com/fr)
+### Opérationnel :
+[États-Unis](https://us.moezh.com/fr) 🇺🇸 · [Canada](https://ca.moezh.com/fr) 🇨🇦 · [Royaume-Uni](https://uk.moezh.com/fr) 🇬🇧 · [France](https://fr.moezh.com/fr) 🇫🇷 · [Tunisie](https://tn.moezh.com/fr) 🇹🇳 · [Global](https://moezh.com/en) 🌍  
 
 ---
 
