@@ -1,4 +1,4 @@
-# MH Studio Global 🌍  
+# MH Studio — by Moez H.
 ### Fullstack & AI-Augmented Web Applications
 
 **MH Studio**, founded by **Moez H.**, builds **intelligent, scalable web applications** using  
@@ -9,9 +9,9 @@ We combine modern frontend development with AI-driven automation to create digit
 ---
 
 ### 🌐 About  
-- **Headquarters:** Tunis, Tunisia 🇹🇳  
-- **Operating Regions:** UK 🇬🇧 · France 🇫🇷 · Canada 🇨🇦 · USA 🇺🇸 · Worldwide 🌍  
-- **Website:** [moezh.com](https://moezh.com)
+- **Headquarters:** Tunis, [Tunisia](https://tn.moezh.com/en) 🇹🇳  
+- **Operating Regions:** [UK](https://uk.moezh.com/en) 🇬🇧 · [France](https://fr.moezh.com/en) 🇫🇷 · [Canada](https://ca.moezh.com/en) 🇨🇦 · [USA](https://us.moezh.com/en) 🇺🇸 · [Global](https://moezh.com/en) 🌍  
+- **Website:** [moezh.com](https://moezh.com/en)
 
 ---
 
@@ -31,13 +31,13 @@ Empowering companies to launch intelligent, high-performance digital experiences
 
 ### 🌎 French Version
 
-## MH Studio Global  
+## MH Studio — by Moez H.
 **Conçoit et développe des applications web intelligentes et évolutives**, basées sur **Next.js**, **React**, **TypeScript** et **IA agentique**.  
 Nous accompagnons les **startups et entreprises internationales** dans la création de solutions digitales performantes et prêtes pour l’avenir.
 
-- Siège : Tunis, Tunisie 🇹🇳  
-- Opérationnel : Royaume-Uni 🇬🇧 · France 🇫🇷 · Canada 🇨🇦 · États-Unis 🇺🇸  
-- Site : [moezh.com](https://moezh.com)
+- Siège : Tunis, [Tunisie](https://tn.moezh.com/fr) 🇹🇳  
+- Opérationnel : [Royaume-Uni](https://uk.moezh.com/fr) 🇬🇧 · [France](https://fr.moezh.com/fr) 🇫🇷 · [Canada](https://ca.moezh.com/fr) 🇨🇦 · [États-Unis](https://us.moezh.com/fr) 🇺🇸  
+- Site : [moezh.com](https://moezh.com/fr)
 
 ---
 
