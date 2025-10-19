@@ -9,7 +9,7 @@ We combine modern frontend development with AI-driven automation to create digit
 ---
 
 ### 🌐 Operating Regions: 
-[USA](https://us.moezh.com/en) 🇺🇸 · [Canada](https://ca.moezh.com/en) 🇨🇦 · [UK](https://uk.moezh.com/en) 🇬🇧 · [France](https://fr.moezh.com/en) 🇫🇷 · [Tunisia](https://tn.moezh.com/en) 🇹🇳  · [Global](https://moezh.com/en) 🌍
+🇺🇸 [USA](https://us.moezh.com/en) · 🇨🇦 [Canada](https://ca.moezh.com/en) · 🇬🇧 [UK](https://uk.moezh.com/en) · 🇫🇷 [France](https://fr.moezh.com/en) · 🇹🇳 [Tunisia](https://tn.moezh.com/en)  · 🌍 [Global](https://moezh.com/en)
 
 ---
 
@@ -17,8 +17,7 @@ We combine modern frontend development with AI-driven automation to create digit
 - Fullstack Development (Next.js, React, TypeScript)  
 - Agentic & AI-Integrated Applications  
 - Scalable Web Architecture  
-- UI/UX Engineering  
-- Cloud & DevOps (Docker, CI/CD)
+- Cloud & DevOps
 
 ---
 
@@ -34,7 +33,7 @@ Empowering companies to launch intelligent, high-performance digital experiences
 Nous accompagnons les **startups et entreprises internationales** dans la création de solutions digitales performantes et prêtes pour l’avenir.
 
 ### Opérationnel :
-[États-Unis](https://us.moezh.com/fr) 🇺🇸 · [Canada](https://ca.moezh.com/fr) 🇨🇦 · [Royaume-Uni](https://uk.moezh.com/fr) 🇬🇧 · [France](https://fr.moezh.com/fr) 🇫🇷 · [Tunisie](https://tn.moezh.com/fr) 🇹🇳 · [Global](https://moezh.com/en) 🌍  
+🇺🇸 [États-Unis](https://us.moezh.com/fr) · 🇨🇦 [Canada](https://ca.moezh.com/fr) · 🇬🇧 [Royaume-Uni](https://uk.moezh.com/fr) · 🇫🇷 [France](https://fr.moezh.com/fr) · 🇹🇳 [Tunisie](https://tn.moezh.com/fr) · 🌍 [Global](https://moezh.com/en)  
 
 ---
 
