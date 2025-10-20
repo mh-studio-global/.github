@@ -1,8 +1,7 @@
 # MH Studio — by Moez H.
 ### Fullstack & AI-Augmented Web Applications
 
-**MH Studio**, founded by **Moez H.**, builds **intelligent, scalable web applications** using  
-**Next.js**, **React**, **TypeScript**, and **Agentic AI** — empowering **startups and global companies** to innovate faster.
+**MH Studio**, founded by **Moez H.**, builds **intelligent, scalable web applications** using **Next.js**, **React**, **TypeScript**, and **Agentic AI** — empowering **startups and global companies** to innovate faster.
 
 We combine modern frontend development with AI-driven automation to create digital products that perform, scale, and deliver measurable impact worldwide.
 
