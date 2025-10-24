@@ -36,5 +36,5 @@ Nous accompagnons les **startups et entreprises internationales** dans la créat
 
 ---
 
-*[MH Studio](https://github.com/mh-studio-global) - by [Moez H.](https://github.com/moezh)*  
+*[MH Studio](https://github.com/mh-studio-global) by [Moez H.](https://github.com/moezh)*  
 *Building intelligent, scalable, and global web experiences.*
